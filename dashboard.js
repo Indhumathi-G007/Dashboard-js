@@ -69,12 +69,7 @@ function showGreeting() {
     }
   }
 
-/*/  Student object (shared across features)
- let student = {
-  name: "INDHUMATHI",
-  birthYear: 2007,
-  city: "salem"
-};*/
+
 
 // 5. Random Motivational Quote
 function showQuote() {
